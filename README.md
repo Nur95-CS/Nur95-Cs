@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Nourhenne 👋
 
 <!--
-**Nur95-CS/Nur95-Cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👩‍🎓 I'm a computer science student
+- 👩‍💻 I'm interested in Software Development (Front-End) 
+- 💬 Currently expanding my programming and technical skills 
+- 🤗 Interested in building real-world projects and gaining internship experience 
+## Technologies & skills
+- **Languages:** Python, Javascript, Html, css
+## My goals 
+- Build strong software development skills
+- create meaningful personal projects
+- gain hands-on industry experience
+## ✉ Let's Connect 
+I'm always interested in learning, collaborating, and connecting with other students and developers! 
 -->
