@@ -1,5 +1,5 @@
 ## Hi, I'm Nourhenne 👋
-<!--
+
 ## About me 
 
 - 👩‍🎓 I'm a computer science student
@@ -14,4 +14,4 @@
 - gain hands-on industry experience
 ## ✉ Let's Connect 
 I'm always interested in learning, collaborating, and connecting with other students and developers! 
--->
+
